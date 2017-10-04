@@ -17,7 +17,7 @@ This plugin use ffi-rzmq to support ZMQ, and need v3.2 or greater version of ZMQ
 You need to install ZeroMQ libraries before installing this plugin (RedHat/CentOS)
 ```
   # yum install zeromq3 zeromq3-devel
-  # fluent-gem install fluent-plugin-zmq-pub
+  # fluent-gem install fluent-plugin-fedmsg
 ```
 ## Configuration
 
